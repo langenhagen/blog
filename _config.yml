@@ -1,9 +1,9 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
 include:
-  - day-notes.md
 
 remote_theme: poole/lanyon
