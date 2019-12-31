@@ -1,6 +1,3 @@
-# My (andreasl's) blog
-My blog for everything engineering- & wisecrack-related.
-
 ## Dienstag, 31 Dezember 2019
 
 - Postman collections also for customers?
