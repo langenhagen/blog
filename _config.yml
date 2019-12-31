@@ -5,4 +5,4 @@ relative_links:
   collections: true
 include:
 
-remote_theme: poole/poole
+theme: minima
