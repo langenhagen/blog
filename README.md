@@ -1,8 +1,8 @@
 ## Wednesday, 01 January 2020
 I currently read a blog post by Kate Matsudaira at acm queue. The blog post has the headline: "The
 Evolution of Management - Transitioning up the ladder". Generally, it's about the importance of
-alignment, communication and letting go of details when climbing up the ladder of management. Kate
-wrote one phrase I like to recite:
+alignment, communication, mentoring and letting go of details when climbing up the ladder of
+management. Kate wrote one phrase I like to recite:
 > Set goals that are continually growing.
 
 The blog entry can be read here: https://queue.acm.org/detail.cfm?id=3350548
