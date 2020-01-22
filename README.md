@@ -1,8 +1,8 @@
 ## Wednesday, 01 January 2020
 I currently read a blog post by Kate Matsudaira at ACM Queue. The blog post has the headline: "The
-Evolution of Management - Transitioning up the ladder". Generally - tldr, it's about the importance of
-alignment, communication, mentoring, letting go of details and looking into the further future when
-climbing up the ladder of management.
+Evolution of Management - Transitioning up the ladder". Generally - tldr, it's about the importance
+of alignment, communication, mentoring, letting go of details and looking into the further future
+when climbing up the ladder of management.
 
 Kate wrote one phrase I like to recite:
 > Set goals that are continually growing.
