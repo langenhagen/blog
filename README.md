@@ -1,3 +1,13 @@
+## Friday, 21 February 2020
+I recently read on https://praxis.fortelabs.co/how-to-take-smart-notes something along the following
+lines:
+
+Collect notes by context, not by topic. Put notes in the context in which you will read them. E.g.,
+write grocery goods for a certain meal onto the purchase list.
+
+I agree.
+
+
 ## Tuesday, 18 February 2020
 Lately, I researched infrastructure-related tools that are commonly used in open source Python
 projects, like e.g. `poetry`, `tox` and `editorconfig`, since I see that the Python community tends
