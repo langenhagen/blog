@@ -136,9 +136,11 @@ Another phrase I identified with:
 > Create a culture that places value on doing work that matters and gets the team's goals done, not
 > on being the busiest or smartest or loudest person in the room.
 
-I identify with it, becauce I sometimes feel like one of the busiest people in the room. Then again,
-I really like doing my work and oftentimes see the necessicity and ways to improve on our status
-quo.  I wish to be in an environment that has its foundations nicely laid out and its processes lean
+I identify with it, becauce I sometimes feel like one of the busiest people in the room. I really
+like doing my work and oftentimes see the necessicity and ways to improve on our status quo.
+However, I also see that our architecture and our processes impose a lot of extra steps into the
+process that I know are either unnecessary or can be automated.
+I wish to be in an environment that has its foundations nicely laid out and its processes lean
 and nicely under control.
 
 The blog post can be read here: https://queue.acm.org/detail.cfm?id=3350548
