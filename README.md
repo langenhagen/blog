@@ -16,6 +16,7 @@ structure and maintain a project. Some tools are in vogue one day, but become ob
 the community. However, Python tooling seems to have a lot of interdependencies, i.e. several tools
 depend on other tools or merely wrap those. If a given tool becomes fashionable or obsolete, it
 tends to impact other tools in the Python ecosystem.
+
 I see the need for tooling when working with Python. On one hand, Python is very accessible and
 popular. Many people use it. On the other hand, Python code is comparably prone to coding errors and
 scales not well out of the box. It is dynamically typed and interpreted. Checks that happen
@@ -140,6 +141,7 @@ Another phrase I identified with:
 I identify with it, becauce I sometimes feel like one of the busiest people in the room. I really
 like doing my work and oftentimes see the necessicity and ways to improve on our status quo. Because
 of that, I do some extra work.
+
 I wish to be in an environment that has its foundations nicely laid out and its processes lean
 and nicely under control.
 
