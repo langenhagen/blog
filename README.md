@@ -1,6 +1,3 @@
----
-title: andreasl's blog
----
 ## Friday, 21 February 2020
 I recently read on https://praxis.fortelabs.co/how-to-take-smart-notes something along the following
 lines:
