@@ -13,7 +13,7 @@ to both provide and use a lot of external tools compared to other language ecosy
 with. Many of these tools require elaborate configuration which in turn implies learning to handle
 these tools. I also see that the Python community lacks a gold standard with respect to how to
 structure and maintain a project. Some tools are in vogue one day, but become obsolete quickly in
-the community. However, Python tooling seems to have a lot of interdependencies, i.e. several tools
+the community. However, Python tooling seems to have a lot of inter-dependencies, i.e. several tools
 depend on other tools or merely wrap those. If a given tool becomes fashionable or obsolete, it
 tends to impact other tools in the Python ecosystem.  
 I see the need for tooling when working with Python. On one hand, Python is very accessible and
@@ -27,7 +27,7 @@ that developers tend to spend effort to develop tools that aid to overcome langu
 become shortcomings for complex projects rather than using another, probably safer and simpler
 language ecosystem. However, the large amount of available and applicable tools may impose a lot of
 extra research on Python developers to make up for the freedom of dynamic typing and interpreted,
-i.e. uncompiled code. Complex Pyton-based projects can become quite inaccessible and I know that
+i.e. uncompiled code. Complex Python-based projects can become quite inaccessible and I know that
 people rarely benefit from Python's dynamic typing. I see that Python has several immediate,
 convenient benefits, e.g. the concise syntax or the need to import symbols explicitly. The only
 large benefit I see when using Python is its enormous amount of available open source packages.
@@ -115,12 +115,12 @@ Compare that with a contrived list of tools for a C++ project:
 
 15 tools.
 
-The C++ list comes up with 15 tools, whereas the Pyhton list comes up with 19 tools. Even with a
+The C++ list comes up with 15 tools, whereas the Python list comes up with 19 tools. Even with a
 contrived and likely overly complex set of tools for a C++ project, the tools in the C++ project
 would have 4 tools less than the tools in the Python project. Consider that `icecream` and `ccache`
 are set up system-wide and require no project-specific configuration. Also, using `gold` and `ninja`
 as opposed to default linkers and `Make` do need little to no extra configuration. I could argue
-that a contrieved and likely overly complex set of tools would have **8** tools less than in the
+that a contrived and likely overly complex set of tools would have **8** tools less than in the
 Python project.
 
 
@@ -137,8 +137,8 @@ Another phrase I identified with:
 > Create a culture that places value on doing work that matters and gets the team's goals done, not
 > on being the busiest or smartest or loudest person in the room.
 
-I identify with it, becauce I sometimes feel like one of the busiest people in the room. I really
-like doing my work and oftentimes see the necessicity and ways to improve on our status quo. Because
+I identify with it, because I sometimes feel like one of the busiest people in the room. I really
+like doing my work and oftentimes see the necessity and ways to improve on our status quo. Because
 of that, I do some extra work.  
 I wish to be in an environment that has its foundations nicely laid out and its processes lean
 and nicely under control.
