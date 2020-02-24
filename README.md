@@ -12,10 +12,10 @@ projects, like e.g. `poetry`, `tox` and `editorconfig`, since I see that the Pyt
 to both provide and use a lot of external tools compared to other language ecosystems I am familiar
 with. Many of these tools require elaborate configuration which in turn implies learning to handle
 these tools. I also see that the Python community lacks a gold standard with respect to how to
-structure and maintain a project. Some tools that are in vogue one day become obsolete quickly in
-the Python community. However, Python tooling seems to have a lot of interdependencies, i.e. several
-tools depend on other tools or merely wrap those. If a given tool becomes fashionable or obsolete,
-it tends to impact other tools in the Python ecosystem.
+structure and maintain a project. Some tools are in vogue one day, but become obsolete quickly in
+the community. However, Python tooling seems to have a lot of interdependencies, i.e. several tools
+depend on other tools or merely wrap those. If a given tool becomes fashionable or obsolete, it
+tends to impact other tools in the Python ecosystem.
 I see the need for tooling when working with Python. On one hand, Python is very accessible and
 popular. Many people use it. On the other hand, Python code is comparably prone to coding errors and
 scales not well out of the box. It is dynamically typed and interpreted. Checks that happen
@@ -29,10 +29,11 @@ language ecosystem. However, the large amount of available and applicable tools 
 extra research on Python developers to make up for the freedom of dynamic typing and interpreted,
 i.e. uncompiled code. Complex Pyton-based projects can become quite inaccessible and I know that
 people rarely benefit from Python's dynamic typing. I see that Python has several immediate,
-convenient benefits, e.g. the concise syntax. The only large benefit I see when using Python is its
-enormous amount of available open source packages. However, I believe, any equally concise, open and
-optionally compiled language with a thorough collection of available packages and strong typing may
-provide a safer and ultimately simpler foundation for any project.
+convenient benefits, e.g. the concise syntax or the need to import symbols explicitly. The only
+large benefit I see when using Python is its enormous amount of available open source packages.
+However, I believe, any equally concise, open and optionally compiled language with a thorough
+collection of available packages and strong typing may provide a safer and ultimately simpler
+foundation for any project.
 
 I note down some of the prominent tooling found in Python projects below:
 - `AppVeyor` - ci/cd
