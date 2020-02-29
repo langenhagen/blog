@@ -42,7 +42,7 @@ defaults:
     scope:
       path: ""
     values:
-      categories: "engineering"
+      categories: engineering
 
 
 # Exclude from processing.
