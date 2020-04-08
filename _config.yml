@@ -43,6 +43,7 @@ defaults:
       path: ""
     values:
       categories: engineering
+      layout: post
 
 
 # Exclude from processing.
