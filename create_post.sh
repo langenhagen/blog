@@ -1,6 +1,6 @@
 #!/bin/bash
 # Create a new jekyll post with the current date and the given title
-# and print the path to the post file.
+# and open the file in an editor.
 #
 # author: andreasl
 
@@ -24,4 +24,4 @@ EOF
 
 printf -- "${front_matter}" > "${post_path}"
 
-printf -- '%s\n' "${post_path}"
+subl "${post_path}"
