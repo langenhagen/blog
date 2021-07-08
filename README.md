@@ -3,7 +3,7 @@ My, andreasl's blog about engineering-related topics.
 
 This `jekyll`-based blog contains articles about engineering-related topics I have written over
 time.
-Find it on GitHub pages at https://langenhagen.github.io/notes/.
+Find it on GitHub pages at https://langenhagen.github.io/blog/.
 
 
 ## Prerequisites
