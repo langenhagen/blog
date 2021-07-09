@@ -5,7 +5,7 @@ date: 2021-07-08
 tags: [notes]
 ---
 # Glassdoor & Kununu Review for Momox
-Draft of my company's review I inted to put onto Glassdoor & Kununu. Please don't share.
+Draft of my company's review I intend to put onto Glassdoor & Kununu. Please don't share.
 
 I applied as a Sr. Python Engineer in Summer 2020. The 2 stage interview process was easy, suspiciously easy in hindsight. One cultural interview and one technical interview. They asked some basics in Python and a bit of SQL. One of the interviewers was only 1 months at Momox. I found that suspicious since it gave away that Momox seemed to have a high employee turnover, but I shrugged it off. I wanted the job. The lead dev, more like a direct manager for several teams and that I never saw writing code, let on that they use Google Cloud, Django, Domain Driven Design and Event sourced system. They said the company's focus in the upcoming year is development into the sector "fashion". The tasks within the first year should be to own a system that surpasses a prototype that they put live. Got an offer on the next day. I said yes.
 
