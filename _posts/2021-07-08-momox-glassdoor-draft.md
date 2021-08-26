@@ -20,4 +20,6 @@ I managed to switch the team in the meantime, away from the very buggy and toxic
 Eventually, every single dev from my second team left. They all had issues with management, micromanagement and the super toxic colleagues that, at some point, everyone had encounters with.
 We got a new product owner and several new devs. I was 1 month in the team and already the veteran. One of the new guys was what I consider a decent engineer. He acted logical, applied practical reasoning, discussed things and assessed options. Two other new guys really disappointed me. They ignored coding standards, ignored formatting, pushed dirty git commits or and left git commit messages blank. Forget people checking their own code before submitting it. I worked again in a very amateurish team. I hated the unprofessional environment. Management said: "its hard to find people these days".
 
-I am happy to leave the company and will look back at it as the worst year of my career so far.
+I am happy to have left the company and will look back at it as the worst year of my career so far.
+
+Supplementary note: I received only part of my last salary. I still wait for the rest. I requested asap clarification but so far did not receive any clear information as to when I will receive my missing payment.
