@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Momox Glassdoor Draft"
+title: "Momox Glassdoor Review"
 date: 2021-07-08
 tags: [notes]
 ---
-# Glassdoor & Kununu Review for Momox
-Draft of my company's review I intend to put onto Glassdoor & Kununu. Please don't share.
+# Review for the Company Momox
+My review for the company Momox.
 
 I applied as a Sr. Python Engineer in Summer 2020. The 2 stage interview process was easy, suspiciously easy in hindsight. One cultural interview and one technical interview. They asked some basics in Python and a bit of SQL. One of the interviewers was only 1 months at Momox. I found that suspicious since it gave away that Momox seemed to have a high employee turnover, but I shrugged it off. I wanted the job. The lead dev, more like a direct manager for several teams and that I never saw writing code, let on that they use Google Cloud, Django, Domain Driven Design and Event sourced system. They said the company's focus in the upcoming year is development into the sector "fashion". The tasks within the first year should be to own a system that surpasses a prototype that they put live. Got an offer on the next day. I said yes.
 
@@ -15,11 +15,9 @@ Also, some colleagues, people that still stay there, were super toxic. Like, I s
 
 I started looking for a new job at another company.
 
-I managed to switch the team in the meantime, away from the very buggy and toxic environment to a stable, nontoxic environment but also a very old system. The system was Python 2. The oldest commit is 11 years ago. The many generations of devs that worked on this code just added stuff left and right. I found no indication that anyone ever took on technical debt. No documentation, no git commit messages. No CI testing. The single worst code I have ever seen. People managed to write even the easiest code in a a weird, most inefficient way. A later colleague once said: "Every line of code here is not right".
+I managed to switch the team in the meantime, away from the very buggy and toxic environment to a stable, nontoxic environment but also a very old system. The system was Python 2. The oldest commit is 11 years ago. The many generations of devs that worked on this code just added stuff left and right. I found no indication that anyone ever took on technical debt. No documentation, no git commit messages, besides the headers. No CI testing. The single worst code I have ever seen. People managed to write even the easiest code in a weird, most inefficient way. A later colleague once said: "Every line of code here is not right".
 
 Eventually, every single dev from my second team left. They all had issues with management, micromanagement and the super toxic colleagues that, at some point, everyone had encounters with.
 We got a new product owner and several new devs. I was 1 month in the team and already the veteran. One of the new guys was what I consider a decent engineer. He acted logical, applied practical reasoning, discussed things and assessed options. Two other new guys really disappointed me. They ignored coding standards, ignored formatting, pushed dirty git commits or and left git commit messages blank. Forget people checking their own code before submitting it. I worked again in a very amateurish team. I hated the unprofessional environment. Management said: "its hard to find people these days".
 
 I am happy to have left the company and will look back at it as the worst year of my career so far.
-
-Supplementary note: I received only part of my last salary. I still wait for the rest. I requested asap clarification but so far did not receive any clear information as to when I will receive my missing payment.
